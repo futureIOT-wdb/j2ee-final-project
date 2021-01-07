@@ -27,11 +27,11 @@
 </body>
 <style>
 	body{
-		background:url(images/bgc2.jpg) no-repeat center;
+		background:skyblue;
 		background-size: cover;
 	}
 	.form-area{
-		background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+		background-color:#fff;
 		width:600px;
 		margin:50px auto 0;
 		height:522px;

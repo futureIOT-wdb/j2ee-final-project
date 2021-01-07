@@ -62,11 +62,10 @@
 </body>
 <style>	
 	body{
-		background:url(images/bgc2.jpg) no-repeat center;
-		background-size: cover;
+		background-color:skyblue;
 	}
 	.form-area{
-		background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+		background-color:#fff;
 		width:600px;
 		margin:50px auto 0;	
 		border: 1px solid #ccc;
@@ -101,18 +100,9 @@
 	}
 	.form ul li .btn{
 		border: 1px solid;
-		-webkit-border-radius: 15px;
-		-moz-border-radius: 15px;
-		/* Old Firefox */
-		border-radius: 15px;
-		-webkit-transition: all 0.15s ease;
-		-moz-transition: all 0.15s ease;
-		-o-transition: all 0.15s ease;
-		-ms-transition: all 0.15s ease;
-		transition: all 0.15s ease;	
 		width:100px;
 		height:34px;
-		background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+		background-color:#c81523;
 		font-size:14px;
 		color:#fff
 	}
